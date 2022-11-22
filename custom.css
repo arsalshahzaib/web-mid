@@ -40,3 +40,8 @@
 .navbar2 ul {
     margin-left: 30%;
 }
+
+#content {
+    height:20rem;
+    background-color: aqua;
+}
