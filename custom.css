@@ -27,4 +27,16 @@
     padding: 1rem;
 }
 
-.currentDate
+.currentDate{
+    margin: 0.5rem;
+}
+
+.pageHeader ul > li {
+    color: white;
+    display: inline;
+    padding: 1rem;
+}
+
+.navbar2 ul {
+    margin-left: 30%;
+}
