@@ -12,3 +12,19 @@
     margin-left: 20%;
 }
 
+#currentDate {
+    margin-left: 10rem;
+    float: left;
+}
+
+.pageHeader {
+    height: auto;
+    background-color: darkblue;
+
+}
+
+.pageHeader p {
+    padding: 1rem;
+}
+
+.currentDate
